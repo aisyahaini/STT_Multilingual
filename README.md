@@ -1,4 +1,2 @@
 # STT_Multilingual
-# STT_multilingual
-## cek lagi
-## lagi
+## Untuk mengubah speech to text dengan multilingual
